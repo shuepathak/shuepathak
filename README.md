@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @shuepathak
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in data stories and statistics!
+- 🌱 I’m currently learning how to be normal. 
+- 💞️ I’m looking to collaborate on almost anything
+- 📫 How to reach me you can drop a text here or on my twitter:- @shuepat
+-
 
 <!---
 shuepathak/shuepathak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
